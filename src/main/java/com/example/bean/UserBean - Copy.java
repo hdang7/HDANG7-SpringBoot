@@ -7,7 +7,7 @@ import javax.validation.constraints.NotNull;
 
 import org.hibernate.validator.constraints.NotEmpty;
 
-import com.example.role.Role; bbb
+import com.example.role.Role; aaa
 
 /**
  *
