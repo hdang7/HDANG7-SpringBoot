@@ -14,8 +14,7 @@ import com.example.bean.UserBean;
 import com.example.service.UserService;
 
 /**
- * @author Dinesh.Rajput
- *
+
  */
 @Component
 public class UserBeanValidator implements Validator{

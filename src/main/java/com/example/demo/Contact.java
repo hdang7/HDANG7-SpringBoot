@@ -10,7 +10,7 @@ public class Contact {
         super();
     }
  
-    public Contact(String name, String email, String country) { 
+    public Contact(String name, String email, String country) {
         super();
         this.name = name;
         this.email = email;

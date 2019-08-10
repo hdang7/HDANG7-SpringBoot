@@ -1,0 +1,4 @@
+2019-07-29 19:28:20,508 WARN o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-07-29 19:29:02,065 WARN c.e.d.ContactController [http-nio-8080-exec-5] this is a warn message
+2019-07-29 19:29:02,066 ERROR c.e.d.ContactController [http-nio-8080-exec-5] this is a error message
+2019-07-29 20:58:14,883 WARN c.z.h.p.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=59m54s290ms521µs300ns).
